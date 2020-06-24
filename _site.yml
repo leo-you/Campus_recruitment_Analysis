@@ -1,0 +1,7 @@
+name: "Campus_Recruitment_Analysis"
+output_dir: "."
+navbar:
+  title: "Campus Recruitment Analysis"
+  left:
+    - text: "Home"
+      href: index.html
